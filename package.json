@@ -9,7 +9,14 @@
   },
   "devDependencies": {
     "vuepress": "1.8.2",
+    "vuepress-plugin-sakura": "^1.2.1",
     "vuepress-theme-reco": "1.6.10"
   },
-  "description": "the puppet's Blog"
+  "description": "the puppet's Blog",
+  "dependencies": {
+    "vuepress-plugin-cursor-effects": "^1.1.4",
+    "vuepress-plugin-dynamic-title": "^1.0.0",
+    "vuepress-plugin-nuggets-style-copy": "^1.0.3",
+    "vuepress-plugin-ribbon-animation": "^1.1.3"
+  }
 }

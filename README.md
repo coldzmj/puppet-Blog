@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: Puppet
+tagline: 想做PC客户端而入错梦的前端小新手.
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
