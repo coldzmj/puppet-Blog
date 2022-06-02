@@ -1,7 +1,7 @@
 module.exports = {
   "title": "puppet-blog",
   "description": "the puppet's Blog",
-  "dest": ".vuepress/dist",
+  "dest": "public",
   "head": [
     [
       "link",
